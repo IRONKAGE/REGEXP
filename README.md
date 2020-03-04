@@ -26,4 +26,4 @@
 
 А це необхідно, якщо наважитесь на використання <strong>Unicode</strong> у REGEXP:
 
-[![regular-aexpressions.info](https://www.regular-expressions.info/img/header125.png)](https://www.regular-expressions.info/unicode.html)
+[![regular-aexpressions.info](https://www.regular-expressions.info/img/header200.png)](https://www.regular-expressions.info/unicode.html)
