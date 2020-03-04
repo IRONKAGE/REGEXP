@@ -20,7 +20,7 @@
 
 Ще є такий цікавий ресурс для тестування:
 
-[![regexr.com](https://regexr.com//assets/icons/android-chrome-192x192.png)](https://regexr.com/)
+[![regexr.com](https://github.com/gskinner/regexr/blob/master/dev/icons/RegExr.svg)](https://regexr.com/)
 
 ну і їх <em>репозиторій</em> https://github.com/gskinner/regexr/
 
