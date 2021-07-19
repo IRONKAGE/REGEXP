@@ -14,7 +14,7 @@
 
 Сайт для перевірки та тестування REGEXP з чудовим описом кожного виразу
 
-[![regex101.com](https://regex101.com/static/assets/android-icon-192x192.png)](https://regex101.com/r/06kFc0/1)
+[![regex101.com](https://regex101.com/static/assets/icon-180.png)](https://regex101.com/r/06kFc0/1)
 
 а також їх <em>репозиторій</em> https://github.com/firasdib/Regex101
 
